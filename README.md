@@ -1,4 +1,4 @@
-# Ciclos en python
+# Reto 7: Ciclos en python
 ## 1.Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado
 ```mermaid
 flowchart TD;
