@@ -45,7 +45,7 @@ while (impar <= 999):  #Se dice que mientras el numero impar sea menor o igual q
   print(impar)
   impar += 2
 
-while (par <= 1000): #Se dice que mientrasbel numero par sea menor o igual a 1000 se actualice de dos en dos
+while (par <= 1000): #Se dice que mientras el numero par sea menor o igual a 1000 se actualice de dos en dos
   print(par)
   par += 2
 # Se ponen dos ciclos, uno para cada tipo de número ya que cada variable tiene un valor inicial diferente
